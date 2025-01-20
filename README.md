@@ -8,7 +8,7 @@ This project is designed to monitor an Apache server for security issues, genera
 
 - **Apache Server Monitoring**:
   - Checks Apache service status.
-  - Verifies if security modules (e.g., ModSecurity, ModEvasive) are enabled.
+  - Verifies if security modules (e.g., ModSecurity, ModEvasive) are enabled
 - **Bad Traffic Detection**:
   - Analyzes Apache access logs for suspicious activity (e.g., `404`, `500`, `403` errors, SQL injection, XSS, brute force attempts).
 - **Alerting**:
