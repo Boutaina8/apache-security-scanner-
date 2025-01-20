@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timezone
 
-# Set up logging
+# Set up 
 logging.basicConfig(filename='/home/kali/sec_scan.log', level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
 
 # Email configuration
